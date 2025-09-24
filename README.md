@@ -1,16 +1,21 @@
-## Hi there 👋
+👋 Hey there! This is Anagh
 
-<!--
-**Anagh09/Anagh09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ Tech Stack
 
-Here are some ideas to get you started:
+**Programming Languages**
+Java Haskell C Visual Basic Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Markup Languages**
+SQL HTML JavaScript
+
+**Protocols & APIs**
+REST SSH SFTP FastAPI WebCam API
+
+**Databases**
+MySQL PostgreSQL MongoDB
+
+**Operating Systems**
+Windows Ubuntu
+
+**Tools**
+Git Visual Studio Code IntelliJ Excel Jupyter Figma
